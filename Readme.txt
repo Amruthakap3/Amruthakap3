@@ -1,1 +1,2 @@
-Welcome to my portfolio site!
+Hello, I'm Amrutha, a Data Analyst,  I am a Results-oriented data analyst with a Master's in Computer Science and Biotechnology.
+My passion for data has driven me for the past three years, culminating in my Master's degree in Computer Science, with a focus on data analytics(completed approximately one year ago).  Since then, I've further developed my skills as a freelance consultant, leveraging data analytics tools to transform raw numbers into meaningful insights.
